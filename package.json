@@ -1,0 +1,14 @@
+{
+	"type": "module",
+  "scripts": {
+    "start": "tsx index.ts",
+    "build": "tsx build",
+    "test": "tsx test",
+    "eject": "tsx eject"
+  },
+  "dependencies": {
+    "@langchain/core": "^0.3.27",
+    "@langchain/ollama": "^0.1.4",
+    "tsx": "^4.19.2"
+  }
+}
